@@ -1,0 +1,14 @@
+{
+	"geode": "3.4.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "razoom.copytoclipboard",
+	"name": "Copy to clipboard",
+	"version": "v1.0.0",
+	"developer": "RaZooM",
+	"description": "This mod makes GD editor use global clipboard instead of in-game one."
+}
